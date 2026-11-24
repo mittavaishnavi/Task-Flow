@@ -1,0 +1,19 @@
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.*
+!frontend/.env.example
+
+# Backend
+backend/target/
+backend/src/main/resources/application-local.properties
+
+# Editors
+.idea/
+.vscode/
+
+# General secrets
+.env
+.env.*
+!.env.example
